@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Арсений\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Арсений\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_ToDoAppSolution.1064288496.00" t="ExcludeRecursive" />
+    <e p="F:\ARSENY\C#\ToDoAppSolution" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ToDoApp" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateTaskWindow.xaml" t="Include" />
+        <e p="CreateTaskWindow.xaml.cs" t="Include" />
+        <e p="EditTaskWindow.xaml" t="Include" />
+        <e p="EditTaskWindow.xaml.cs" t="Include" />
+        <e p="Logic" t="Include">
+          <e p="ComponentsOperations.cs" t="Include" />
+        </e>
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="LastActionsModel.cs" t="Include" />
+          <e p="SubtasksControlsModel.cs" t="Include" />
+          <e p="SubtasksModel.cs" t="Include" />
+          <e p="ToDoModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="App.g.cs" t="Include" />
+            <e p="CreateTaskWindow.g.cs" t="Include" />
+            <e p="EditTaskWindow.g.cs" t="Include" />
+            <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
+            <e p="MainWindow.g.cs" t="Include" />
+            <e p="TaskWindow.g.cs" t="Include" />
+          </e>
+        </e>
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="Annotations.cs" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="FileIOUtils.cs" t="Include" />
+        </e>
+        <e p="TaskWindow.xaml" t="Include" />
+        <e p="TaskWindow.xaml.cs" t="Include" />
+        <e p="ToDoApp.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ToDoAppSolution.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
